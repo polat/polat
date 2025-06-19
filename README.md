@@ -6,7 +6,7 @@
 I design and develop web-based projects using technologies like PHP, WordPress, and Laravel — crafting scalable, functional, and user-focused digital experiences.
 I particularly enjoy working on front-end UI development, where design meets code to create clean, modern interfaces.
 
----
+
 
 ## 🚀 What I Do
 
@@ -14,7 +14,7 @@ I particularly enjoy working on front-end UI development, where design meets cod
 - 🎨 Front-end UI Development
 - 🔧 Server Management (WHM, cPanel, CloudLinux, Imunify360)
 
----
+
 
 ## 🌱 Currently Exploring
 
@@ -22,7 +22,7 @@ I particularly enjoy working on front-end UI development, where design meets cod
 - Large Language Models and AI-based Content Generation
 - Smart home management with Raspberry Pi  
 
----
+
 
 ## 📫 Get in Touch
 
